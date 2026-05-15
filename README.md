@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Parth193
-- 🌱 I’m currently learning Data Science with many Coding Languages including ML.
-- 📫 How to reach me - @parth_19.03 on Instagram / mail me at ravatparth319@gmail.com
-
-<!---
-Parth193/Parth193 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Parth Ravat 👋
+Graduate Business Analyst | Project Management Enthusiast | Data Science Professional
+I am a Business Analytics professional with an MSc in Business Analytics from Dublin Business School. I specialize in bridging the gap between technical data systems and strategic business objectives. My background combines Data Science with a structured approach to Project Management  to deliver impactful, data-driven solutions.
