@@ -6,8 +6,8 @@ Dublin-based Business Analytics professional specializing in bridging the gap be
 ---
 
 ## 🎓 Education
-* **MSc in Business Analytics** | Dublin Business School (2025 - 2026)
-* **BSc in Data Science** | Mumbai University (2021 - 2024)
+* **MSc in Business Analytics** | Dublin Business School (Jan 2025 - Jan 2026) | Grade: 2:1
+* **BSc in Data Science** | Mumbai University (2021 - 2024) | GPA: 8.8/10
 
 ---
 
